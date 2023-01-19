@@ -1,0 +1,25 @@
+{
+  "name": "projeto-legal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miqueias08/PROJETO-LEGAL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miqueias08/PROJETO-LEGAL/issues"
+  },
+  "homepage": "https://github.com/Miqueias08/PROJETO-LEGAL#readme",
+  "dependencies": {
+    "next": "^13.1.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
